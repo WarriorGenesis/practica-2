@@ -1,0 +1,14 @@
+ls
+cd nombre_carpeta
+ls /home
+man ls
+ls /usr
+touch nombre_archivo.txt
+mdkir nombre_carpeta
+pwd
+clear
+mv ../archivo_a_reubicar
+rm nombre_archivo
+rm nombre_carpeta
+echo "texto" >> archivo.txt
+cat archivo.txt
